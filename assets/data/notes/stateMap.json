@@ -1,0 +1,90 @@
+{
+  "state": {
+    "trailState": {
+      "currentStep": 0,
+      "showHintModal": false,
+      "selectedTrail": "",
+      "sortIndex": 0,
+      "metaList": {
+        "TRAIL" : {
+          "title":"",
+          "legend":"",
+          "legend_title": "",
+          "map": {
+              "lat":"",
+              "lon":""
+            },
+          "theme":"",
+          "duration": 0,
+          "transport":{
+              "mode":"",
+              "distance": 0
+            },
+          "tags": ["", ""],
+          "isAccessible": {
+              "wheelchair":false,
+              "pushchair":false
+            },
+          "versionHistory": {
+            "initialRelease": "\"2014-01-01T23:28:56.782Z\"",
+            "latestRelease": "\"2019-04-01T21:30:50.761Z\""
+          }
+        }
+      },
+      "trails": {
+        "TRAIL": {
+          "finale":{
+            "answers":[
+              {
+                "answer": "",
+                "codeLetters":[0]
+              }
+            ],
+            "code":""
+          },
+          "trail":[
+            {
+              "type":"",
+              "clueNum":0,
+              "text":"",
+              "image":"",
+              "map":{
+                  "lat":"",
+                  "lon":"",
+                  "path":""
+              },
+              "hints":[
+                  "",
+                  "",
+                  ""
+              ]
+            }
+          ]
+        }
+      },
+      "save": {
+        "TRAIL": {
+          "answers": [
+            "USER_ANSWER"
+          ],
+          "userGrid":[
+            [false, false, false, true, false, false, true],
+            [],
+            [],
+            []
+          ],
+          "suspects": [],
+          "weapons": [],
+          "currentStep": 0,
+          "step":[
+            {
+              "hintsUsed": 0,
+              "mapUsed": false,
+              "answerUsed": false
+            }
+          ]
+        }
+      }
+    }
+  }
+}

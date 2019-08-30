@@ -1,0 +1,74 @@
+{
+    "metadata":{
+        "title":"",
+        "subtitle":"",
+        "legend":"",
+        "map": {
+            "lat":"",
+            "lon":""
+        },
+        "theme":"",
+        "duration":0,
+        "transport":{
+            "mode":"",
+            "distance":""
+        },
+        "isUrban":true,
+        "isHistorical":true,
+        "isAccessible": {
+            "wheelchair":true,
+            "pushchair":true
+        }
+    },
+    "finale":{
+        "mm":{
+            "suspects":[
+                {
+                    "image":"",
+                    "text":""
+                }
+            ],
+            "weapons":[
+                {
+                    "image":"",
+                    "text":""
+                }
+            ]
+        },
+        "sm":{
+            "answers":[
+                {
+                    "answer": "",
+                    "codeLetters":[0,1]
+                }
+            ],
+            "code":""
+        },
+        "th":{
+            "locations": [
+                {
+                    "text":"",
+                    "position":0
+                }
+            ]
+        }
+    },
+    "trail":[
+        {
+            "type":"",
+            "clueNum":0,
+            "text":"",
+            "image":"",
+            "map":{
+                "lat":"",
+                "lon":"",
+                "path":""
+            },
+            "hints":[
+                "",
+                "",
+                ""
+            ]
+        }
+    ]
+}

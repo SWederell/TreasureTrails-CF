@@ -1,0 +1,59 @@
+
+    -- Library
+        TrailList
+            TrailListItem
+    -- Trail detail
+        info page
+            theme icon
+                image (spy/treasure/murder)
+            duration icon
+                time
+            transport/distance icon
+                image (walking/biking/driving)
+                distance
+            locale icon
+                image(urban/rural)
+            time frame icon
+                (modern/historical)
+            accessibility icons
+                wheelchair
+                pushchair
+            mission legend
+
+    -- Trail View
+
+        HelperBar
+            Map
+            Hints
+
+        --- common
+        mission detail
+        -clue
+        -movement (direction/this way/order)
+        -extra info (did ye know/fact file/top secret)
+        -warning
+        next/prev buttons
+
+        --- treasure hunt
+        treasure map
+            image
+            locations [{name : "", placement: {x:"",y:""}}]
+        scroll intro
+
+        --- murder mystery
+        suspect gallery
+            image
+              data
+              width
+              height
+            name
+        weapon gallery
+            image
+            date
+
+        --- spy mission
+        answer grid
+            answer input boxes
+            combination box
+            deactivation code boxes
+            how to solve
